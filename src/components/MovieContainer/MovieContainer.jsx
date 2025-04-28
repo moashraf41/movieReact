@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import MovieCard from "./MovieCard/MovieCard";
-import inception from "../../assets/Inception.jpg";
+import inception from "../../assets/inception.jpg";
 import aot from "../../assets/aot.jpg";
 import darkKnight from "../../assets/Dark.jpg";
 import endGame from "../../assets/endgame.jpg";
-import tenet from "../../assets/Tenet.jpg";
+import tenet from "../../assets/tenet.jpg";
 import got from "../../assets/got.jpg";
 
 export default class MovieContainer extends Component {
