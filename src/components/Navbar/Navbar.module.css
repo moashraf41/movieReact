@@ -1,0 +1,17 @@
+.navbarbrand {
+  font-weight: bold;
+  font-size: 2rem;
+  color: #182172 !important;
+}
+.Link {
+  color: #182172 !important;
+  font-weight: 300;
+  font-size: 1.2rem;
+}
+.Link:hover {
+  color: #ec5233 !important;
+  text-decoration: underline 2px wavy #ec5233;
+}
+.btn {
+  color: white !important;
+}
